@@ -1,0 +1,72 @@
+{
+  "assetsByChunkName": {
+    "path---my-second-post": [
+      "path---my-second-post-8c9943f897e4ff0747d5.js",
+      "path---my-second-post-8c9943f897e4ff0747d5.js.map"
+    ],
+    "component---src-pages-onama-index-jsx": [
+      "component---src-pages-onama-index-jsx-a7943adfb8ecc8802f35.js",
+      "component---src-pages-onama-index-jsx-a7943adfb8ecc8802f35.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-3302ae5c6e56a8c71253.js",
+      "component---src-pages-index-js-3302ae5c6e56a8c71253.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---onama": [
+      "path---onama-a0e39f21c11f6a62c5ab.js",
+      "path---onama-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-pages-kontakt-index-jsx": [
+      "component---src-pages-kontakt-index-jsx-d46d0fb3639894ddd0aa.js",
+      "component---src-pages-kontakt-index-jsx-d46d0fb3639894ddd0aa.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-7be2a47be5baff266b90.js",
+      "component---src-templates-blog-post-js-7be2a47be5baff266b90.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-aba23b2deec752f26fb4.js",
+      "component---src-layouts-index-js-aba23b2deec752f26fb4.js.map"
+    ],
+    "path---hi-folks": [
+      "path---hi-folks-eb2e17920d09ece21fc5.js",
+      "path---hi-folks-eb2e17920d09ece21fc5.js.map"
+    ],
+    "path---index": [
+      "path---index-713d1d18800592979905.js",
+      "path---index-713d1d18800592979905.js.map"
+    ],
+    "path---hello-world": [
+      "path---hello-world-2e0abaed054e2d9a3ba1.js",
+      "path---hello-world-2e0abaed054e2d9a3ba1.js.map"
+    ],
+    "commons": [
+      "commons-5e13531ab4a8929b216e.js",
+      "build-js-styles.css",
+      "commons-5e13531ab4a8929b216e.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---kontakt": [
+      "path---kontakt-a0e39f21c11f6a62c5ab.js",
+      "path---kontakt-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-f28475acaec75bab3acf.js",
+      "build-js-styles.css",
+      "app-f28475acaec75bab3acf.js.map",
+      "build-js-styles.css.map"
+    ]
+  }
+}
