@@ -8,6 +8,10 @@
       "component---src-pages-onama-index-jsx-a7943adfb8ecc8802f35.js",
       "component---src-pages-onama-index-jsx-a7943adfb8ecc8802f35.js.map"
     ],
+    "path---test-post": [
+      "path---test-post-42e7c2e6849f4ee25e81.js",
+      "path---test-post-42e7c2e6849f4ee25e81.js.map"
+    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-3302ae5c6e56a8c71253.js",
       "component---src-pages-index-js-3302ae5c6e56a8c71253.js.map"
@@ -41,8 +45,8 @@
       "path---hi-folks-eb2e17920d09ece21fc5.js.map"
     ],
     "path---index": [
-      "path---index-713d1d18800592979905.js",
-      "path---index-713d1d18800592979905.js.map"
+      "path---index-16f58d4bfcb383c9df4d.js",
+      "path---index-16f58d4bfcb383c9df4d.js.map"
     ],
     "path---hello-world": [
       "path---hello-world-2e0abaed054e2d9a3ba1.js",
@@ -63,9 +67,9 @@
       "path---kontakt-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-f28475acaec75bab3acf.js",
+      "app-a4a9499ee025861b661e.js",
       "build-js-styles.css",
-      "app-f28475acaec75bab3acf.js.map",
+      "app-a4a9499ee025861b661e.js.map",
       "build-js-styles.css.map"
     ]
   }
