@@ -1,6 +1,10 @@
 # instalacija preneti u mk-blog
 
 ```
+git clone https://github.com/kubet/mk-blog
+```
+
+```
 cd mk-blog
 ```
 
